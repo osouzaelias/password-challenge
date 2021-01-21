@@ -6,6 +6,7 @@ Input: Uma senha (string).<br>
 Output: Um boolean indicando se a senha é válida.
 
 **Regras**
+
 Considere uma senha sendo válida quando a mesma possuir as seguintes definições:
 
 1. Nove ou mais caracteres
